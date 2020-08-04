@@ -22,9 +22,9 @@
 Development Manager | 2019.02 ~ 2020.08
 
 - Management of development team
-- Backend development on the nagiji service about 1M traffics (Django, REST, AWS, MariaDB)
+- Backend development on the [nagiji service](https://www.nagiji.com) about 1M traffics (Django, REST, AWS, MariaDB)
 - Building a web app for nagiji back office system (React, Django)
-- Migrate none cloud's whole infra to AWS
+- Migrate non cloud's whole infra to AWS
 - Building a web app for supporter.butterflower.kr and these back office (React, Django)
 - Building a few langding page (font.nagiji.com, singsong.ai)
 
@@ -32,9 +32,9 @@ Development Manager | 2019.02 ~ 2020.08
 
 Frontend Developer | 2018.06  ~ 2019.02
 
-- Frontend development on the trost service (JS, Webpack, PWA)
+- Frontend development on the [trost service](https://www.trost.co.kr) (JS, Webpack, PWA)
 - Optimize mobile web page performance
-- Crawling and Analysis to korea psycholigycal counseling site's data (NLP)
+- Crawling and analysis to korea psychogycal counseling site's data (NLP)
 
 
 ### CoToOne
@@ -46,7 +46,7 @@ iOS App Developer | 2016.12 ~ 2018.01
 
 
 ## Independent projects
-### Blossom - AI based english diary
+### [Blossom - AI based english diary](https://onelink.to/2n7b9c)
 `Flutter`, `Dart`, `Go`, `GCP`, `MariaDB`
 - support to write english diary for newbie who does not know englsih well
 
@@ -54,19 +54,19 @@ iOS App Developer | 2016.12 ~ 2018.01
 `JS` `Chrome Extension`
 - support markdown writing for smart editor
 
-### Kkutbang - Korea word game dictionary
+### [Kkutbang - Korea word game dictionary](https://onelink.to/bshmaf)
 `Android` `Kotlin` `Node` `AWS` `Realm` `RXJava` `RXAndroid` `MariaDB` `React Native`
 - solve information asymmetry on korea word game
 - total 250K download
 - max 57K MAU
 
-### Flow - Flowchart based Programming Language (EPL)
+### [Flow - Flowchart based Programming Language (EPL)](https://drive.google.com/file/d/0Bxchf4mF-4R5SEhPSFhNQUdLX2M/view?usp=sharing)
 `Android` `Java` `JS`
 - solve learning curve for learn to High-level programming language
 - Sliver prize at national round of KOI(Korea Olympiad in Informatics)
 - Golden prize at provincial round of KOI(Korea Olympiad in Informatics)
 
-### File Filter - File name extension based file cleaning tool
+### [File Filter - File name extension based file cleaning tool](https://drive.google.com/file/d/0Bxchf4mF-4R5aElCR3BfVzltQ2s/view)
 `Android` `Java`
 - solve a difficulty on smart phone file system
 - Sliver prize at provincial round of KOI(Korea Olympiad in Informatics)
