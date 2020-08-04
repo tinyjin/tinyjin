@@ -9,13 +9,9 @@
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinui/)](https://www.linkedin.com/in/jinui/)
-	
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/wlsdml)](https://www.facebook.com/wlsdml)
-
 [![Pypi Badge](http://img.shields.io/badge/-pypi-blue?style=flat-square&logo=pypi&logoColor=yellow&link=https://pypi.org/user/tinyjin/)](https://pypi.org/user/tinyjin/)
-
 [![NPM Badge](http://img.shields.io/badge/-npm-black?style=flat-square&logo=npm&link=https://www.npmjs.com/~tinyjin)](https://www.npmjs.com/~tinyjin)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baram991103@gmail.com)](mailto:baram991103@gmail.com)
 
 </div>
