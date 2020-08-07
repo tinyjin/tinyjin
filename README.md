@@ -17,7 +17,7 @@
 </div>
 
 ## Work Experience
-### Nagiji INC.
+### Nagiji Inc.
 
 Development Manager | 2019.02 ~ 2020.08
 
@@ -25,8 +25,8 @@ Development Manager | 2019.02 ~ 2020.08
 - Backend development on the [nagiji service](https://www.nagiji.com) about 1M traffics (Django, REST, AWS, MariaDB)
 - Building a web app for nagiji back office system (React, Django)
 - Migrate non cloud's whole infra to AWS
-- Building a web app for supporter.butterflower.kr and these back office (React, Django)
-- Building a few langding page (font.nagiji.com, singsong.ai)
+- Building a web app for [butterflower](https://supporter.butterflower.kr) and its back office (React, Django)
+- Building a few landing page ([font.nagiji.com](https://font.nagiji.com), [singsong.ai](https://singsong.ai))
 
 ### HumartCompany Inc.
 
@@ -34,7 +34,7 @@ Frontend Developer | 2018.06  ~ 2019.02
 
 - Frontend development on the [trost service](https://www.trost.co.kr) (JS, Webpack, PWA)
 - Optimize mobile web page performance
-- Crawling and analysis to korea psychogycal counseling site's data (NLP)
+- Crawling and analysis to korea psychological counseling site's data (NLP)
 
 
 ### CoToOne
@@ -48,7 +48,7 @@ iOS App Developer | 2016.12 ~ 2018.01
 ## Independent projects
 ### [Blossom - AI based english diary](https://onelink.to/2n7b9c)
 `Flutter`, `Dart`, `Go`, `GCP`, `MariaDB`
-- support to write english diary for newbie who does not know englsih well
+- support to write english diary for people who does not know english well
 
 ### Genius Editor - Naver smart editor extension
 `JS` `Chrome Extension`
@@ -63,13 +63,13 @@ iOS App Developer | 2016.12 ~ 2018.01
 ### [Flow - Flowchart based Programming Language (EPL)](https://drive.google.com/file/d/0Bxchf4mF-4R5SEhPSFhNQUdLX2M/view?usp=sharing)
 `Android` `Java` `JS`
 - solve learning curve for learn to High-level programming language
-- Sliver prize at national round of KOI(Korea Olympiad in Informatics)
+- Silver prize at national round of KOI(Korea Olympiad in Informatics)
 - Golden prize at provincial round of KOI(Korea Olympiad in Informatics)
 
 ### [File Filter - File name extension based file cleaning tool](https://drive.google.com/file/d/0Bxchf4mF-4R5aElCR3BfVzltQ2s/view)
 `Android` `Java`
 - solve a difficulty on smart phone file system
-- Sliver prize at provincial round of KOI(Korea Olympiad in Informatics)
+- Silver prize at provincial round of KOI(Korea Olympiad in Informatics)
 
 ## Skills
 - Languages : proficient in JS, Python, Kotlin, SQL; familiar with Java, Swift, Dart; previously used Go
