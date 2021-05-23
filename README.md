@@ -16,10 +16,10 @@
 
 <div align=center>
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/wlsdml)](https://www.facebook.com/wlsdml)
-[![Pypi Badge](http://img.shields.io/badge/-pypi-blue?style=flat-square&logo=pypi&logoColor=yellow&link=https://pypi.org/user/tinyjin/)](https://pypi.org/user/tinyjin/)
-[![NPM Badge](http://img.shields.io/badge/-npm-black?style=flat-square&logo=npm&link=https://www.npmjs.com/~tinyjin)](https://www.npmjs.com/~tinyjin)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baram991103@gmail.com)](mailto:baram991103@gmail.com)
+[![PyPI](https://img.shields.io/static/v1?style=for-the-badge&message=PyPI&color=3775A9&logo=PyPI&logoColor=FFFFFF&label=)](https://pypi.org/user/tinyjin/)
+[![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)](https://www.npmjs.com/~tinyjin)
+[![Speaker Deck](https://img.shields.io/static/v1?style=for-the-badge&message=Speaker+Deck&color=009287&logo=Speaker+Deck&logoColor=FFFFFF&label=)](https://speakerdeck.com/tinyjin)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:baram991103@gmail.com)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 
 ## Skills
-- **Languages** : proficient in TS/JS, Python, Kotlin, Swift, SQL; familiar with Java, C, C++ Dart; previously used Go, PHP
+- **Languages** : proficient in TS/JS, Python, Kotlin, Swift, SQL; familiar with Java, C, C++, Dart; previously used Go, PHP
 - **Technologies** : Django, MariaDB, Flutter, Express, Nginx, Android(Kotlin/Java), iOS(Swift), React, React Native, AWS, GCP, Git
 
 
