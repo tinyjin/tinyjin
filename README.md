@@ -33,7 +33,7 @@
 ## Work Experience
 - **seeso** | Software Engineer | 2021.03 ~ now
 - **Wellysis** | Full Stack Engineer | 2020.09 ~ 11
-- **Nagiji Inc.** | Development Manager | 2019.02 ~ 08
+- **Nagiji Inc.** | Development Manager | 2019.02 ~ 2020.08
 - **HumartCompany Inc.** | Frontend Developer | 2018.06 ~ 2019.02
 - **CoToOne** | iOS App Developer | 2016.12 ~ 2018.01
 
