@@ -24,14 +24,8 @@
 </div>
 
 
-```
-9 years from the beginning programming
-4 years as a software engineer
-```
-
-
 ## Work Experience
-- **seeso** | Software Engineer | 2021.03 ~ now
+- **seeso** | Software Engineer | 2021.03 ~ present
 - **Wellysis** | Full Stack Engineer | 2020.09 ~ 11
 - **Nagiji Inc.** | Development Manager | 2019.02 ~ 2020.08
 - **HumartCompany Inc.** | Frontend Developer | 2018.06 ~ 2019.02
