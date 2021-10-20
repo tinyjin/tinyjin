@@ -10,7 +10,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinui/)](https://www.linkedin.com/in/jinui/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-pink)](https://bit.ly/jinui)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-pink)](https://tinyjin.notion.site/Software-Engineer-6d8149d7060b4565bdb7d14dfdc11d55)
 
 </div>
 
