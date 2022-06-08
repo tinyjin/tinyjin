@@ -10,7 +10,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinui/)](https://www.linkedin.com/in/jinui/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-pink)](https://tinyjin.notion.site/Software-Engineer-6d8149d7060b4565bdb7d14dfdc11d55)
+[![Resume Badge](https://img.shields.io/badge/-Resume-purple)](https://zzini.notion.site/Resume-199bb42049f54904a2fbdc34a88bff7c)
+[![CV Badge](https://img.shields.io/badge/-CV-green)](https://zzini.notion.site/CV-Curriculum-Vitae-743f5b9af59b4902913f328ca739674c)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)](https://zzini.notion.site/Portfolio-4c3408317de449ac87b98ec2c1739fa3)
 
 </div>
 
@@ -22,27 +24,3 @@
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:baram991103@gmail.com)
 
 </div>
-
-
-## Work Experience
-- **seeso** | Software Engineer | 2021.03 ~ present
-- **Wellysis** | Full Stack Engineer | 2020.09 ~ 11
-- **Nagiji Inc.** | Development Manager | 2019.02 ~ 2020.08
-- **HumartCompany Inc.** | Frontend Developer | 2018.06 ~ 2019.02
-- **CoToOne** | iOS App Developer | 2016.12 ~ 2018.01
-
-
-## Skills
-- **Languages** : proficient in TS/JS, Python, Kotlin, Swift, SQL; familiar with Java, C, C++, Dart; previously used Go, PHP
-- **Technologies** : Django, MariaDB, Flutter, Express, Nginx, Android(Kotlin/Java), iOS(Swift), React, React Native, AWS, GCP, Git
-
-
-## Awards
-- Special prize at 11th **TOPCIT**
-- Special prize at 10th **TOPCIT**
-- Special prize at 9th **TOPCIT**
-- Silver prize at national round of 2016 **KOI**(Korea Olympiad in Informatics)
-- Golden prize at provincial round of 2016 **KOI**(Korea Olympiad in Informatics)
-- Scholarship student of **Electronic Times**
-- Participation prize of 2015 **ICT Awards Korea** (C-Algorithm Part)
-- Silver prize at provincial round of 2015 **KOI**(Korea Olympiad in Informatics)
