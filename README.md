@@ -2,12 +2,6 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftinyjin)](https://hits.seeyoufarm.com)                            
-
-</div>
-
-<div align=center>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinui/)](https://www.linkedin.com/in/jinui/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-purple)](https://zzini.notion.site/Resume-199bb42049f54904a2fbdc34a88bff7c)
 [![CV Badge](https://img.shields.io/badge/-CV-green)](https://zzini.notion.site/CV-Curriculum-Vitae-743f5b9af59b4902913f328ca739674c)
