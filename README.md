@@ -3,9 +3,6 @@
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinui/)](https://www.linkedin.com/in/jinui/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-purple)](https://zzini.notion.site/Resume-199bb42049f54904a2fbdc34a88bff7c)
-[![CV Badge](https://img.shields.io/badge/-CV-green)](https://zzini.notion.site/CV-Curriculum-Vitae-743f5b9af59b4902913f328ca739674c)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange)](https://zzini.notion.site/Portfolio-4c3408317de449ac87b98ec2c1739fa3)
 
 </div>
 
